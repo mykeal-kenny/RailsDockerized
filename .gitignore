@@ -42,6 +42,8 @@ yarn-debug.log*
 
 # Add local .env file
 .env
-
+.env.*
 # Add pem files
-*.pem
+**/*.pem
+**/*.crt
+appSettings.json
