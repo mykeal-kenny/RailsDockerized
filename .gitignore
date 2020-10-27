@@ -42,3 +42,6 @@ yarn-debug.log*
 
 # Add local .env file
 .env
+
+# Add pem files
+*.pem
